@@ -1,1 +1,1 @@
-# DIO-Microsoft-Azure-AI-Fundamentals
+# lab_01_machine_learning
